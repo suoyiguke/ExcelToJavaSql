@@ -1,0 +1,3 @@
+public class {CN_TABLENAME} implements Serializable {{
+{allFiled}
+}}
